@@ -14,8 +14,15 @@ namespace HalloCSharp
             Console.WriteLine("Hello C# World");
             Console.Write("Hello C# World \n");
             Console.WriteLine(Environment.NewLine);
-            Console.Write("Hello C# World");
-            
+            Console.Write("Hello C# World \n");
+
+            Console.WriteLine(
+                "Wir haben heute "
+                + DateTime.Now.ToLongDateString()
+                + " und es ist "
+                +  DateTime.Now.ToShortTimeString()
+                + " Uhr");
+
             Console.ReadKey();
         }
     }

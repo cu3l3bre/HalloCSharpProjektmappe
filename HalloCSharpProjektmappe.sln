@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.28803.452
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HalloCSharp", "HalloCSharp\HalloCSharp.csproj", "{065341F3-3CB7-4222-96AD-CA130BF8AF7F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HalloWindowsForms", "HalloWindowsForms\HalloWindowsForms.csproj", "{B455789C-EF9C-4F32-8BDB-1E175DC50019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HalloWPF", "HalloWPF\HalloWPF.csproj", "{EAD79FBF-5792-4236-94D9-1606D800ED7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{065341F3-3CB7-4222-96AD-CA130BF8AF7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{065341F3-3CB7-4222-96AD-CA130BF8AF7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{065341F3-3CB7-4222-96AD-CA130BF8AF7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B455789C-EF9C-4F32-8BDB-1E175DC50019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B455789C-EF9C-4F32-8BDB-1E175DC50019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B455789C-EF9C-4F32-8BDB-1E175DC50019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B455789C-EF9C-4F32-8BDB-1E175DC50019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAD79FBF-5792-4236-94D9-1606D800ED7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD79FBF-5792-4236-94D9-1606D800ED7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD79FBF-5792-4236-94D9-1606D800ED7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD79FBF-5792-4236-94D9-1606D800ED7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
